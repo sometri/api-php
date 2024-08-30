@@ -4,7 +4,7 @@ header("Content-Type: application/json"); // for json style view
 // Database connection details
 $servername = "localhost";
 $username = "root";
-$password = "Sometri@123";
+$password = "your password";
 $dbname = "myapi_db";
 
 // Create connection
