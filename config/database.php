@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "Sometri@123";
+$password = "your password";
 $dbname = "myapi_db";
 
 // Create connection
